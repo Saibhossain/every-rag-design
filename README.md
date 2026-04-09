@@ -181,15 +181,48 @@ python -m src.standard_rag.pipeline
 
 ## 🔮 Roadmap
 
+This repository is being developed as a **complete RAG design space exploration platform**, progressing from foundational pipelines to research-grade systems.
+
+### Phase 1 — Foundations (Core Retrieval)
 - [x] Standard RAG
-- [x] Hybrid RAG
+- [x] Hybrid RAG (Dense + Sparse)
 - [ ] Multi-Query RAG
+- [ ] Reranking RAG
 - [ ] HyDE RAG
-- [ ] Graph RAG
-- [ ] Memory RAG
-- [ ] Agentic RAG
-- [ ] Secure RAG
-- [ ] Benchmark Suite
+
+### Phase 2 — Advanced Retrieval & Reasoning
+- [ ] Recursive / Multi-Hop RAG
+- [ ] Graph RAG (Knowledge Graph-based retrieval)
+- [ ] Contextual / Personalized RAG
+- [ ] Memory-Augmented RAG
+
+### Phase 3 — Intelligent & Agentic Systems
+- [ ] Self-RAG (Self-reflection & iterative improvement)
+- [ ] Agentic RAG (Multi-agent workflows with tools)
+- [ ] Tool-augmented retrieval systems
+
+### Phase 4 — Security & Reliability (Research Focus)
+- [ ] Secure RAG (Prompt Injection & Tool Misuse Defense)
+- [ ] Provenance-aware retrieval (Signed Context / SCP-inspired)
+- [ ] Trust-aware context filtering
+- [ ] Adversarial evaluation benchmarks
+
+### Phase 5 — Evaluation & Benchmarking
+- [ ] Unified evaluation framework (Recall, MRR, Faithfulness)
+- [ ] Cross-RAG comparison benchmarks
+- [ ] Latency & cost analysis
+- [ ] Failure case analysis (real-world scenarios)
+
+### Phase 6 — Production Readiness
+- [ ] API deployment (FastAPI)
+- [ ] Monitoring (latency, token usage, failures)
+- [ ] Scalable vector DB integration
+- [ ] Streaming & real-time RAG
+
+### Phase 7 — Multi-Modal & Future Directions
+- [ ] Multi-Modal RAG (Text + Image)
+- [ ] Federated / Privacy-Preserving RAG
+- [ ] Domain-specific pipelines (Legal, Healthcare)
 
 ---
 
@@ -222,3 +255,25 @@ This repository is designed for:
 
 who want to go beyond basic RAG and understand **modern AI system design**.
 
+
+# 👨‍💻 Author
+# **Md Saib Hossain**
+**AI Engineer • AI / ML / LLM & AI Safety Researcher**  
+**Agentic AI Developer • Researcher in Autonomous & Multi-Agent Systems • Advanced Agentic AI Architect**
+
+Designing safe, scalable, and human-centered intelligent systems for real-world healthcare and autonomous AI applications.
+
+<p align="left">
+  <a href="mailto:saibhossain5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saibhossain5%40gmail.com-red?style=flat&logo=gmail">
+  </a>
+  <a href="https://saibhossain.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome">
+  </a>
+  <a href="https://github.com/Saibhossain">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/saib-hossain-182834229">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin">
+  </a>
+</p>
