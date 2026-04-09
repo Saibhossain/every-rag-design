@@ -160,8 +160,8 @@ We evaluate RAG systems across three dimensions:
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-username/rag-design-space.git
-cd rag-design-space
+git clone https://github.com/Saibhossain/every-rag-design.git
+cd every-rag-design
 pip install -r requirements.txt
 ```
 
