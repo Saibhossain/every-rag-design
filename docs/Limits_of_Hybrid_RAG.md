@@ -3,6 +3,7 @@
 Recently, I worked on improving a Retrieval-Augmented Generation (RAG) system using a Document-aware Hybrid RAG approach.
 The idea was simple:
 
+![rag-hybridRAG.png](image/rag-hybridRAG.png)
 Instead of searching across all documents, first select the most relevant papers, then retrieve chunks only from those papers.
 * ✅ This helped reduce noise a lot
 * ✅ Answers became more focused
