@@ -41,7 +41,7 @@ So the bottleneck has shifted:
 ## 📎 I’ve shared my experiments here:
 > 🔗 Notebook 1: https://www.kaggle.com/code/saibhossain/hybrid-rag
 
-> 🔗 Notebook 2: [https://www.kaggle.com/code/saibhossain/document-aware-hybrid-rag
+> 🔗 Notebook 2: https://www.kaggle.com/code/saibhossain/document-aware-hybrid-rag
 
 If you're working on RAG systems, especially with research papers or multi-document setups, you’ll likely hit this boundary too.
 Would love to hear your thoughts or approaches to solve this 🚀
