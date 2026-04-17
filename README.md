@@ -68,8 +68,6 @@ This repository uses a practical dataset for experimentation:
 
 ```python
 import kagglehub
-
-# Download dataset
 path = kagglehub.dataset_download("saibhossain/rag-practice")
 print("Path:", path)
 ```
