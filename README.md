@@ -196,7 +196,8 @@ This repository is being developed as a **complete RAG design space exploration 
 - [ ] Memory-Augmented RAG
 
 ### Phase 3 — Intelligent & Agentic Systems
-- [ ] Self-RAG (Self-reflection & iterative improvement)
+- [x] Self-RAG [(Self-reflection & iterative improvement)](https://github.com/Saibhossain/self_rag_system.git)
+
 - [ ] Agentic RAG (Multi-agent workflows with tools)
 - [ ] Tool-augmented retrieval systems
 
